@@ -1,4 +1,14 @@
-<h1 align="center">Data Engineer</h1>
+<h1 align="center">Hi 👋, I'm Ajay Avale</h1>
+
+<h3 align="center">
+🚀 AI Developer | Full Stack Engineer | Problem Solver
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Full+Stack+Engineer;Hackathon+Winner;Building+Real+World+Projects&center=true&width=500&height=50">
+</p>
+
+---
 
 <table>
 <tr>
@@ -6,37 +16,42 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I'm a Data Engineer and Developer from India  
-- 🚀 Working on AI + Full Stack Projects  
-- 🛠️ Tech: **Python, Flask, Java, DSA, DBMS**  
-- 📚 Love simplifying complex concepts  
-- 📫 Email: **your-email@gmail.com**
+- 🎓 B.Tech IT Student @ VIT Pune (CGPA: 9.0)
+- 💻 Strong in **DSA, AI & Full Stack Development**
+- 🚀 Building real-world impactful projects
+- 🧠 Interested in **AI, Fintech & Civic Tech**
+- 📍 Pune, Maharashtra
 
 ---
 
-## 🌐 Connect with Me
+## 🏆 Achievements
 
-<p>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
-</p>
+- 🥇 **1st Prize – Tech Arena**
+- 🏅 **Top 15 / 455+ Teams – National Hackathon**
+- 💰 Won ₹10,000 cash prize
+- 🌟 **Uplifter Award – Internship Performance**
 
 ---
 
-## 🛠️ Languages & Tools
+## 💼 Experience
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,flask,mysql,linux,aws,js,html,css" />
-</p>
+- 👨‍💻 Software Developer Intern @ Sumago Infotech
+- ⚙️ Worked on Flask, Django, Backend & APIs
 
 ---
 
-## 💡 Fun Fact
+## 🔥 Projects
 
-> "If you can't explain it simply, you don't understand it well enough."  
-> I build and explain real-world projects 🚀
+### 🚑 CivicSphere
+AI-powered civic issue reporting platform (Flask + Firebase + Maps)
+
+### 💳 TrustPay
+AI-based fintech app with fraud detection (Flutter + Firebase)
+
+### 📍 Smart Attendance System
+Geolocation + Browser fingerprinting based system
+
+---
 
 </td>
 
@@ -50,18 +65,54 @@
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:avaleajay95@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/avaleajay170"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,flask,django,react,mysql,mongodb,firebase,git,github,linux" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=avaleajay170&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avaleajay170&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avaleajay170&theme=react-dark"/>
 </p>
 
 ---
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=avaleajay170&color=blue"/>
+</p>
+
+---
+
+## 💡 Quote
+
+> "If you can't explain it simply, you don't understand it well enough."
+
+🔥 I build projects that solve real-world problems.
