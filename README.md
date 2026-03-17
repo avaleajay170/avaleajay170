@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ajay Avale</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ajay%20Avale&fontSize=40&fontColor=ffffff"/>
-<h3 align="center">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Ajay%20Avale&fontSize=35&fontColor=ffffff"/>
+</p><h3 align="center">
 🚀 AI Developer | Full Stack Engineer | Problem Solver
 </h3>
 
