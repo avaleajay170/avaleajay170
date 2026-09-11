@@ -232,7 +232,7 @@ A secure attendance platform designed to reduce proxy attendance through **geolo
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/avaleajay170?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=2%25&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" width="96%" alt="Detailed metrics dashboard"/>
+<img src="https://metrics.lecoq.io/avaleajay170?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata" width="96%" alt="Detailed metrics dashboard"/>
 
 </div>
 
@@ -242,7 +242,9 @@ A secure attendance platform designed to reduce proxy attendance through **geolo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=avaleajay170&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://img.shields.io/badge/GitHub-10%2B%20Repos-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Commits-34%2B-0ea5e9?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Followers-Growing-38bdf8?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -252,7 +254,7 @@ A secure attendance platform designed to reduce proxy attendance through **geolo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=ACHIEVEMENTS%20%26%20RESEARCH&fontSize=25&fontColor=ffffff&animation=twinkling&color=0:020617,50:075985,100:0ea5e9" width="90%"/>
+<img src="https://img.shields.io/badge/-ACHIEVEMENTS%20%26%20RESEARCH-0ea5e9?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
