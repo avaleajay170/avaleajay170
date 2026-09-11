@@ -14,6 +14,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=avaleajay170&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
 </div>
 
 ---
@@ -24,6 +28,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=0EA5E9&center=true&vCenter=true&width=700&height=45&lines=%3E+Initializing+developer.profile...;%3E+Loading+AI+%2B+Full+Stack+modules...;%3E+Training+models...;%3E+Building+systems...;%3E+Status%3A+ONLINE+%E2%9A%A1" alt="Animated terminal" />
 
+<img src="https://media.giphy.com/media/SvurAlz5b7dHK/giphy.gif" width="380" alt="Coding animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/avaleajay170"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/></a>
+
 </div>
 
 ## 👋 About Me
@@ -31,6 +41,22 @@
 I am **Ajay Avale**, an Information Technology student at **Vishwakarma Institute of Technology, Pune**, pursuing my B.Tech with a **9.12/10.0 CGPA**. I completed my Diploma in Information Technology from AISSMS Polytechnic with **92.06%**.
 
 I enjoy building systems where **AI/ML, software engineering and real-world problem solving** meet. My work focuses on computer vision, deep learning, backend engineering, full-stack development and practical automation.
+
+```python
+class AjayAvale:
+    def __init__(self):
+        self.role = "AI Developer | Full Stack Engineer"
+        self.location = "Pune, India"
+        self.cgpa = 9.12
+        self.currently_learning = ["Computer Vision", "Deep Learning", "System Design"]
+        self.fun_fact = "Trained a Siamese Network to spot fake handwriting."
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something real. 🚀")
+
+me = AjayAvale()
+me.say_hi()
+```
 
 <div align="center">
 
@@ -187,6 +213,36 @@ A secure attendance platform designed to reduce proxy attendance through **geolo
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avaleajay170&bg_color=020617&color=94a3b8&line=0ea5e9&point=38bdf8&area=true&hide_border=true&custom_title=Ajay's%20Contribution%20Graph" width="96%"/>
+
+</div>
+
+---
+
+# 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/avaleajay170/avaleajay170/main/profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D contribution calendar"/>
+
+</div>
+
+---
+
+# 📡 Full Metrics Dashboard
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/avaleajay170?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=2%25&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" width="96%" alt="Detailed metrics dashboard"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=avaleajay170&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
