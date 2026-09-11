@@ -208,31 +208,11 @@ A secure attendance platform designed to reduce proxy attendance through **geolo
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avaleajay170&bg_color=020617&color=94a3b8&line=0ea5e9&point=38bdf8&area=true&hide_border=true&custom_title=Ajay's%20Contribution%20Graph" width="96%"/>
-
-</div>
-
----
-
 # 🧊 3D Contribution Calendar
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/avaleajay170/avaleajay170/main/profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D contribution calendar"/>
-
-</div>
-
----
-
-# 📡 Full Metrics Dashboard
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/avaleajay170?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata" width="96%" alt="Detailed metrics dashboard"/>
 
 </div>
 
